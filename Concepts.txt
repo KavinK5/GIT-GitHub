@@ -1,0 +1,11 @@
+GIT  -  Version Control System
+GIT by Linus Torvalds
+
+
+GitHub - A Web-based hosting services for the software code
+
+The GitHub provides the version control system using GIT
+GitHub enables Multiple people to work on a project
+                               to track the changes on the codes
+                               to manage the codes 
+
